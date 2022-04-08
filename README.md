@@ -1,5 +1,6 @@
 Car Liscesnse Detector
 A small computer vision project based on kaggle dataset (https://www.kaggle.com/datasets/elysian01/car-number-plate-detection?resource=download)
+
 In this project, I used labelIMG to label the imgaes, yolov3 to train the model, and pytesseract to recognize the car liscense number.
 
 Step 1: Using labelIMG to label the liscense plate.
