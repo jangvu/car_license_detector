@@ -23,10 +23,17 @@ Step 5: Rotating the image in order to get a better result.
 ![corrected_img](https://user-images.githubusercontent.com/50269219/162429763-8403d1c6-6b7e-47f5-b7fe-b6eb093f9f13.jpg)
 
 Before rotating
+
+
+
 <img width="328" alt="Screen Shot 2022-04-08 at 13 52 46" src="https://user-images.githubusercontent.com/50269219/162430582-10d9a20c-7776-4490-83fb-32db688b80b3.png">
 
 
 After rotating
+
+
+
+
 <img width="329" alt="Screen Shot 2022-04-08 at 13 52 54" src="https://user-images.githubusercontent.com/50269219/162430596-724be6f0-ebc8-40b9-9e9c-fb3e81026be1.png">
 
 
