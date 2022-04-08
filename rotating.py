@@ -87,13 +87,3 @@ th3 = cv2.threshold(blur,0,255,cv2.THRESH_BINARY+cv2.THRESH_OTSU)[1]
 
 plt.imshow(th3)
 plt.show()
-
-
-
-img = 'corrected_img.jpg'
-predicted_license_plates = []
-custom_config ='--oem 3 --psm 6 -c tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
-predicted_result = pytesseract.image_to_string(img, lang ='eng',config = custom_config)
-filter_predicted_result = "".join(predicted_result.split()).replace(":", "").replace("-", "")
-predicted_license_plates.append(filter_predicted_result)
-print(predicted_license_plates)
